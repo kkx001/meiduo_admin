@@ -60,6 +60,8 @@ INSTALLED_APPS = [
     'rest_framework',   #DRF序列化
     'meiduo_admin', #后台
 
+
+
     #完整导包路径
 
 
